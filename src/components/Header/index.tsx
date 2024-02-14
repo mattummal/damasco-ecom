@@ -28,7 +28,7 @@ const Header = () => {
           >
             <img src={Logo} alt="Logo" className="md:w-6 lg:w-8 object-cover" />
             <p className="text-headingColor md:text-lg lg:text-xl font-bold">
-              ZaiQa
+              DAMASCO
             </p>
           </motion.div>
         </Link>
@@ -84,7 +84,7 @@ const Header = () => {
                 className="flex items-center gap-2 cursor-pointer"
               >
                 <img src={Logo} alt="Logo" className="w-8 object-cover" />
-                <p className="text-headingColor text-xl font-bold">ZaiQa</p>
+                <p className="text-headingColor text-xl font-bold">Damasco</p>
               </motion.div>
             </Link>
             {user ? (

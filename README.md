@@ -1,4 +1,4 @@
-# ZaiQa Online Restaurant App
+#  Online Restaurant App
 
 ## STACK USED
 

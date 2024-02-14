@@ -14,18 +14,19 @@ const Left = () => {
           />
         </div>
       </div>
-      <p className="text-[2rem] lg:text-[4rem] font-bold tracking-wide text-headingColor">
-        The Fastest Food Delivery in
-        <span className="text-orange-600 text-[2.5rem] lg:text-[4.6rem]">
+      <p className="text-[1rem] lg:text-[3rem] font-bold tracking-wide text-headingColor">
+      Experience Authentic Syrian & Lebanese Cuisine in the
+        <span className="text-orange-600 text-[2rem] lg:text-[4rem]">
           {" "}
-          India
+          Heart of Leuven
         </span>
       </p>
       <p className="text-base text-textColor text-center md:text-left md:w-[80%]">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus nam
-        delectus sed, vel quaerat, libero nesciunt debitis, architecto
-        repudiandae accusamus aut exercitationem nisi non doloribus! Temporibus
-        officia architecto reiciendis blanditiis.
+
+Savor the rich flavors of the Middle East at our restaurant, where traditional recipes meet modern flair.
+Indulge in a culinary journey through Syria and Lebanon, where each dish is crafted with care and passion.
+From aromatic spices to mouthwatering mezze, discover the true essence of Levantine cuisine.
+Join us for a dining experience like no other.
       </p>
       <motion.button
         whileHover={{ scale: 1.1 }}
